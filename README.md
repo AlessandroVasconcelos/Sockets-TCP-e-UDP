@@ -1,4 +1,4 @@
-# Redes de Computadores - UVA.
+# Redes de Computadores  - Ciências da Computação - UVA.
 
 ## Aplicação cliente-servidor simples em python para demonstrar a programação de socket para UDP e TCP.
 ## Instruções dos algoritmos:
