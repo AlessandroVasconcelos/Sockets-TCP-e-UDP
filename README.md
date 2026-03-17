@@ -1,13 +1,14 @@
-# Redes de Computadores  - Ciências da Computação - UVA
+# Redes de Computadores
 
-## Aplicação cliente-servidor simples em python para demonstrar a programação de socket para UDP e TCP.
-## Instruções dos algoritmos:
+Este repositório contém uma aplicação cliente-servidor simples em python para demonstrar a programação de socket para UDP e TCP. Prática desenvolvida durante a disciplina de Redes de Computadores do curso de Ciência da Computação na Universidade Estadual Vale do Acaraú (UVA).
+
+## 📌 Instruções dos algoritmos:
 1. Um cliente lê uma linha de caracteres (dados) do teclado e a envia para o servidor. 
 2. O servidor recebe os dados e converte os caracteres para maiúsculas.
 3. O servidor envia os dados modificados ao cliente.
 4. O cliente recebe os dados modificados e apresenta a linha em sua tela.
 
-## Professor:
+## 👨‍🏫 Professor:
 Lourival Gerardo da Silva Júnior.
 
 ## 🛠️ Tecnologias Utilizadas:
