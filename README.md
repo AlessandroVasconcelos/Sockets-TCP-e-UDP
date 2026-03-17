@@ -10,6 +10,6 @@
 ## Professor:
 Lourival Gerardo da Silva Júnior.
 
-## Linguagem e IDE Utilizada:
+## 🛠️ Tecnologias Utilizadas:
 <a href = "https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href = "https://www.jetbrains.com/pt-br/pycharm/download/"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
